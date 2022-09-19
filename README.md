@@ -4,11 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamprajapat8&label=Profile%20views&color=0e75b6&style=flat" alt="gautamprajapat8" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamprajapat8" alt="gautamprajapat8" /></a> </p>
-- 🌱 I’m currently learning Java,Sprinboot,MySQL,Hybernate,HTML,CSS,Javascript, C/C++.
+
+- 🌱 I’m currently learning Java,Sprinboot,MySQL,Hybernate,HTML,CSS,Javascript, C/C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/gautamprajapat8](https://github.com/gautamprajapat8)
 
--💬 Ask me about Data Structures And Algorithms, Front-End Technologies, Back-End Technologies.
+- 💬 Ask me about Data Structures And Algorithms, Front-End Technologies, Back-End Technologies
 
 - 📫 How to reach me 📧 **gautamk1336@gmail.com**
 
