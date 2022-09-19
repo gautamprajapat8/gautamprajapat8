@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamprajapat8" alt="gautamprajapat8" /></a> </p>
 
-- 🌱 I’m currently learning Java,Sprinboot,MySQL,Hybernate,HTML,CSS,Javascript, C/C++
+- 🌱 I’m currently learning Java, Sprinboot, MySQL, Hybernate, HTML, CSS, Javascript, C/C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/gautamprajapat8](https://github.com/gautamprajapat8)
 
