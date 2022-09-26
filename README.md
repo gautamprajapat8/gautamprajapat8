@@ -83,7 +83,7 @@
   
   <img width="49%" height="160" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" /> 
     <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)-->
-  <img width="49%" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/eat_sleep_code_repeat.jpg" />   
+  <img width="49%" height="160" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/eat_sleep_code_repeat.jpg" />   
 </p>
 
 <h3 style="text-align: center;">Stay Happy, Stay Motivated  <img style="height: 50px;" src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>  
