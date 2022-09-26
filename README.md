@@ -18,8 +18,8 @@
 
 - 📫 How to reach me 📧 **gautamk1336@gmail.com**
 
-- 📄 Know about my experiences <a href="resources/GautamKumar_Resume.pdf" download="Gautam_Kumar_Resume" target="_blank">**📄GET RESUME⬇️**</a>
-- 💼 See my portfolio <a href="https://gautamprajapat8.github.io/" target="_blank">**Gautam**</a> 
+- 📄 Know about my experiences <a href="https://github.com/gautamprajapat8/gautamprajapat8.github.io/blob/master/resources/GautamKumar_Resume.pdf" download="Gautam_Kumar_Resume" target="_blank">**📄GET RESUME⬇️**</a>
+- 💼 See my portfolio <a href="https://gautamprajapat8.github.io/" target="blank">**Gautam**</a> 
 
 # 🌐 Connect with me:
 
