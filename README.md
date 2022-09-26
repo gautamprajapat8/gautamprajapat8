@@ -3,8 +3,9 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/gautamprajapat8" target="_blank">Gautam kumar</a> 
 </h1>
 
-<h3 align="center">Java Back-end developer With a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology, And always like to learn new skills and technologies.
-</h3>
+<h3 align="center">  	&#8220;What you do today determines who you will be tomorrow&#8221; </h3>
+<h4 align="center">Java Back-end developer With a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology, And always like to learn new skills and technologies.
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamprajapat8&label=Profile%20views&color=0e75b6&style=flat" alt="gautamprajapat8" /> <img src="https://img.shields.io/github/followers/gautamprajapat8?label=Github%20Connection&style=flat" alt="Github Followers" />
 </p> 
