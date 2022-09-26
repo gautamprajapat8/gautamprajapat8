@@ -26,8 +26,8 @@
 <p align="left">
   <a href="https://linkedin.com/in/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/linked-in-alt.svg" alt="gautamprajapat8" height="40" width="40" /></a>
   <a href="https://join.skype.com/invite/kdlJNu0e2gFL" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/skype.svg" alt="gautamprajapat8" height="40" width="40" /></a>
-  <a href="https://www.facebook.com/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/reddit.svg" alt="gautamprajapat8" height="40" width="40" /></a>
-  <a href="https://www.reddit.com/user/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/facebook.svg" alt="gautamprajapat8" height="40" width="40" /></a>
+  <a href="https://www.reddit.com/user/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/reddit.svg" alt="gautamprajapat8" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/facebook.svg" alt="gautamprajapat8" height="40" width="40" /></a>
   <a href="https://www.instagram.com/gautamprajapat.8/" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/instagram.svg" alt="gautamprajapat8" height="40" width="40" /></a>
 
   
