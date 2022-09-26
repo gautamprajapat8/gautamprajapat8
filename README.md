@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gautam kumar</h1>
+<!--<h1 align="center">Hi 👋, I'm Gautam kumar</h1>-->
+
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am <a href="https://github.com/gautamprajapat8" target="_blank">Gautam kumar</a> 
+</h1>
+
 <h3 align="center">Java Back-end developer With a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology, And always like to learn new skills and technologies.
 </h3>
 
@@ -7,23 +11,24 @@
 
 - 🌱 I’m currently learning **Java, Sprinboot, MySQL, Hybernate**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/gautamprajapat8?tab=repositories">**Github**<img src="https://github.githubassets.com/pinned-octocat.svg" alt="GitHub" width="30" height="25">
+- 👨‍💻 All of my projects are available at <a href="https://github.com/gautamprajapat8?tab=repositories" target="_blank">**Github**<img src="https://github.githubassets.com/pinned-octocat.svg" alt="GitHub" width="30" height="25">
 </a>
 
 - 💬 Ask me about **DSA, Front-End Technologies, And Back-End Technologies**
 
 - 📫 How to reach me 📧 **gautamk1336@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/gautamprajapat8/gautamprajapat8.github.io/blob/master/resources/GautamKumar_Resume.pdf" download="Gautam_Kumar_Resume" style="color:black">**📄GET RESUME⬇️**</a>
+- 📄 Know about my experiences <a href="resources/GautamKumar_Resume.pdf" download="Gautam_Kumar_Resume" target="_blank">**📄GET RESUME⬇️**</a>
+- 💼 See my portfolio <a href="https://gautamprajapat8.github.io/" target="_blank">**Gautam**</a> 
 
 # 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/gautamprajapat8" target="blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/linked-in-alt.svg" alt="gautamprajapat8" height="40" width="40" /></a>
-  <a href="https://join.skype.com/invite/kdlJNu0e2gFL" target="blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/skype.svg" alt="gautamprajapat8" height="40" width="40" /></a>
-  <a href="https://www.facebook.com/gautamprajapat8" target="blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/reddit.svg" alt="gautamprajapat8" height="40" width="40" /></a>
-  <a href="https://www.reddit.com/user/gautamprajapat8" target="blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/facebook.svg" alt="gautamprajapat8" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/gautamprajapat.8/" target="blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/instagram.svg" alt="gautamprajapat8" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/linked-in-alt.svg" alt="gautamprajapat8" height="40" width="40" /></a>
+  <a href="https://join.skype.com/invite/kdlJNu0e2gFL" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/skype.svg" alt="gautamprajapat8" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/reddit.svg" alt="gautamprajapat8" height="40" width="40" /></a>
+  <a href="https://www.reddit.com/user/gautamprajapat8" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/facebook.svg" alt="gautamprajapat8" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/gautamprajapat.8/" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/instagram.svg" alt="gautamprajapat8" height="40" width="40" /></a>
 
   
 </p>
@@ -50,7 +55,7 @@
 
 # 📊 GitHub Stats:
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="85%" src="https://github-profile-trophy.vercel.app/?username=gautamprajapat8" alt="gautamprajapat8" /></a> </p>
+<p align="center"> <a href="https://github.com/gautamprajapat8" target="_blank"><img width="85%" src="https://github-profile-trophy.vercel.app/?username=gautamprajapat8" alt="gautamprajapat8" /></a> </p>
 <br>
 
 <p align="center">
