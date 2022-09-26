@@ -1,13 +1,14 @@
 <!--<h1 align="center">Hi 👋, I'm Gautam kumar</h1>-->
 
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I am <a href="https://github.com/gautamprajapat8" target="_blank">Gautam kumar</a> 
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am <a href="https://github.com/gautamprajapat8" target="_blank">Gautam kumar</a> 
 </h1>
 
 <h3 align="center">Java Back-end developer With a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology, And always like to learn new skills and technologies.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamprajapat8&label=Profile%20views&color=0e75b6&style=flat" alt="gautamprajapat8" /> </p>
-<img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamprajapat8&label=Profile%20views&color=0e75b6&style=flat" alt="gautamprajapat8" /> <img src="https://img.shields.io/github/followers/gautamprajapat8?label=Github%20Connection&style=flat" alt="Github Followers" />
+</p> 
+
 
 - 🌱 I’m currently learning **Java, Sprinboot, MySQL, Hybernate**
 
@@ -19,7 +20,7 @@
 - 📫 How to reach me 📧 **gautamk1336@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/gautamprajapat8/gautamprajapat8.github.io/blob/master/resources/GautamKumar_Resume.pdf" download="Gautam_Kumar_Resume" target="_blank">**📄GET RESUME⬇️**</a>
-- 💼 See my portfolio <a href="https://gautamprajapat8.github.io/" target="blank">**Gautam**</a> 
+- 💼 See my portfolio <a href="https://gautamprajapat8.github.io/" target="blank">**👤Gautam**</a> 
 
 # 🌐 Connect with me:
 
