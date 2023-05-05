@@ -68,7 +68,7 @@
 
 
   <img width="32%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamprajapat8&show_icons=true&locale=en&layout=compact" alt="gautamprajapat8" />
-  <img width="65%" height="220" src="https://activity-graph.herokuapp.com/graph?username=gautamprajapat8&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4%22" alt="gautamprajapat8" />
+  <img width="65%" height="220" src="https://github-readme-activity-graph.cyclic.app/graph?username=gautamprajapat8&bg_color=d1d1d1&color=000000&line=864b82&point=2c2b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="gautamprajapat8" />
 
 </p>
 
