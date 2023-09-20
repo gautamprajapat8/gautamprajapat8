@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">  	&#8220;What you do today determines who you will be tomorrow&#8221; </h3>
-<h4 align="center">Java Back-end developer With a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology, And always like to learn new skills and technologies.
+<h4 align="center">Java Back-end Developer with a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology, And always like to learn new skills and technologies.
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamprajapat8&label=Profile%20views&color=0e75b6&style=flat" alt="gautamprajapat8" /> <img src="https://img.shields.io/github/followers/gautamprajapat8?label=Github%20Connection&style=flat" alt="Github Followers" />
@@ -62,13 +62,20 @@
 
 <p align="center">
 
+<!-- Gautam kumar's GitHub Stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gautamprajapat8&show_icons=true&locale=en" alt="gautamprajapat8" />
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamprajapat8&" alt="gautamprajapat8" />
+  <!-- github-readme-streak-stats-->
+  <img width="48%" src="https://streak-stats.demolab.com/?user=gautamprajapat8" alt="gautamprajapat8" />
 
 
+
+
+<!-- Most Used Languages -->
   <img width="32%" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamprajapat8&show_icons=true&locale=en&layout=compact" alt="gautamprajapat8" />
-  <img width="65%" height="220" src="https://github-readme-activity-graph.cyclic.app/graph?username=gautamprajapat8&bg_color=d1d1d1&color=000000&line=864b82&point=2c2b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="gautamprajapat8" />
+
+  <!-- github-readme-activity-graph -->
+  <img width="65%" height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=gautamprajapat8&bg_color=ffffff&color=1c172b&line=4162c3&point=403d3d&area=true&hide_border=true" alt="gautamprajapat8" />
 
 </p>
 
