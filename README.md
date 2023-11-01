@@ -42,19 +42,22 @@
 # 💻 Tech Stack:
  <!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/> </a>
-  <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/hibernate.png" alt="hibernate" width="55" height="55"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="53" height="53"/> </a> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/csharp.svg" alt="C#" width="53" height="53"/> </a> 
-<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Framework/dotnet.svg" alt="ASP.NET" width="53" height="53"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/mysql.png" alt="mysql" width="55" height="55"/> </a> 
-<a href="https://www.postman.com/solar-sunset-509528/workspace/30-days-of-postman-exercises/overview" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Software/postman.svg" alt="Postman API" width="55" height="55"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/javaScript.png" alt="javascript" width="50" height="50"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/git.png" alt="git" width="50" height="50"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/C.png" alt="c" width="50" height="50"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/C%2B%2B.png" alt="cplusplus" width="55" height="55"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="55" height="55"/> </a>
+  <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/hibernate.png" alt="hibernate" title="Hibernate" width="55" height="55"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" title="Spring Boot" width="53" height="53"/> </a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/csharp.svg" alt="C#" title="C#" width="53" height="53"/> </a> 
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Framework/dotnet.svg" alt="ASP.NET" title="ASP.NET" width="53" height="53"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/mysql.png" alt="mysql" title="MySQL" width="55" height="55"/> </a> 
+<a href="https://github.com/gautamprajapat8" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Software/api-icon.svg" alt="REST API" title="REST API" width="55" height="55"/> </a> 
+<a href="https://www.postman.com/solar-sunset-509528/workspace/30-days-of-postman-exercises/overview" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Software/postman.svg" alt="Postman API" title="Postman API" width="55" height="55"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="55" height="55"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS" width="55" height="55"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/javaScript.png" alt="javascript" title="JavaScript" width="50" height="50"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/git.png" alt="git" title="Git Hub" width="50" height="50"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/C.png" alt="c" title="C" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/C%2B%2B.png" alt="cplusplus" title="C++" width="55" height="55"/> </a> 
+  <a href="https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/ProgrammingLanguages/Data_Structures.png" alt="DSA" title="Data_Structures" width="55" height="55"/> </a> 
+  <a href="https://www.coursera.org/learn/prompt-engineering" target="_blank" rel="noreferrer"> <img src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Devops/Prompt%20engineering.png" alt="PromptEngineering" title="PromptEngineering" width="55" height="55"/> </a> 
 
 </p> 
 
