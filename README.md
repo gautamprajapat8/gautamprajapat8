@@ -6,7 +6,7 @@
 -->
 
 <h3 align="center">  	&#8220;What you do today determines who you will be tomorrow&#8221; </h3>
-<h4 align="center">Java Back-end Developer with a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology, And always like to learn new skills and technologies.
+<h4 align="center">.Net Developer with a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Frontend Technology as Well as in Backend Technology, And always like to learn new skills and technologies.
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamprajapat8&label=Profile%20views&color=0e75b6&style=flat" alt="gautamprajapat8" /> <img src="https://img.shields.io/github/followers/gautamprajapat8?label=Github%20Connection&style=flat" alt="Github Followers" />
