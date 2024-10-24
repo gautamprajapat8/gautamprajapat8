@@ -14,7 +14,7 @@
 </p> 
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
 
-- 🌱 I’m currently learning **ASP.NET MVC, C#, MSSQL, JavaScript library**
+- 🌱 I’m currently learning **ASP.NET Core, ASP.NET MVC, C#, MSSQL, JavaScript library**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/gautamprajapat8?tab=repositories" target="_blank">**Github**<img src="https://github.githubassets.com/pinned-octocat.svg" alt="GitHub" width="30" height="25">
 </a>
