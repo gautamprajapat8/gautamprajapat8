@@ -14,8 +14,8 @@
 <a href="https://gautamprajapat8.github.io/" target="_blank" rel="noreferrer"> <img align="right" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Other/code.gif" width="450" height="280"/> </a> 
 
 
-- 💻 I’m currently working as a **Backend Developer (Web Developer)** at Tech Binary (Blueberry Group) with over **1.5+ years of experience** in developing web applications.
-- 🌱 I’m enhancing my expertise in **ASP.NET Core, ASP.NET MVC, C#, SQL Server (MSSQL), and JavaScript libraries** like **jQuery** and **AngularJS**.
+- 💻 I’m currently working as a **Backend Developer** at Tech Binary (Blueberry Group) with **1.5+ years of experience** in developing web applications.
+- 🌱 I’m currently enhancing my expertise in **ASP.NET Core, ASP.NET MVC, C#, SQL Server (MSSQL), and JavaScript (jQuery, basic AngularJS)**.
 - 💬 Ask me about **Data Structures & Algorithms (DSA), Back-End Technologies, and  Front-End Technologies.**
 - 📄 Download my [**Resume Here**](https://github.com/gautamprajapat8/gautamprajapat8.github.io/blob/master/resources/Gautam_Kumar_Resume.pdf) ⬇️
 - 💼 Check out my [**Portfolio**](https://gautamprajapat8.github.io/) 👤
