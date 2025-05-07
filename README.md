@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">  	&#8220;What you do today determines who you will be tomorrow&#8221; </h3>
-<h4 align="center">.NET Developer with 1.5+ years of experience in Web Development, currently working as a Backend Developer at Tech Binary (Blueberry Group). Skilled in Backend Technologies like ASP.NET Core, ASP.NET MVC, C#, SQL Server, Java, Spring Boot, and MySQL, with a solid understanding of Frontend Technologies such as HTML, CSS, and JavaScript. Proficient in using jQuery and AngularJS for data binding and DOM manipulation. Recently earned my Master of Computer Applications (MCA) from Indira Gandhi National Open University and passionate about continuously learning and adapting to new technologies.</h4>
+<h4 align="center">.NET Developer with 1.5+ years of experience in Web Development, currently working as a Backend Developer at Tech Binary (UNIT OF BLUEBERRY GROUP). Skilled in Backend Technologies like ASP.NET Core, ASP.NET MVC, C#, SQL Server, Java, Spring Boot, and MySQL, with a solid understanding of Frontend Technologies such as HTML, CSS, and JavaScript. Proficient in using jQuery and AngularJS for data binding and DOM manipulation. Recently earned my Master of Computer Applications (MCA) from Indira Gandhi National Open University and passionate about continuously learning and adapting to new technologies.</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gautamprajapat8&label=Profile%20views&color=0e75b6&style=flat" alt="gautamprajapat8" />
